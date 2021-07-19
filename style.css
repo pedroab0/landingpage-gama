@@ -92,6 +92,10 @@ button:hover,
     padding: 5rem 4rem;
 }
 
+.section-form {
+    height: 55rem;
+}
+
 div.section-title {
     display: grid;
     justify-items: center;
